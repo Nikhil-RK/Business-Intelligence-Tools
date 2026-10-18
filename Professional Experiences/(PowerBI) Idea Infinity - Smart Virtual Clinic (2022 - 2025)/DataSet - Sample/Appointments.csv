@@ -1,0 +1,51 @@
+AppointmentID,PatientID,DoctorID,Speciality,AppointmentDate,AppointmentTime,DayOfWeek,TimeSlot,BookingDate,LeadDays,BookingChannel,Status,CancellationReason,NoShowFlag,RescheduledFlag,PriorityLevel,PatientType,AgeGroup,Gender,DoctorCount,WaitTimeMinutes,QueueNumber,IssueCategory,SeverityScore,InsuranceType,PaymentType,Location
+A001,P001,D009,Derma,2026-04-01,9:00,Wednesday,Morning,2026-03-29,3,Call,Completed,NA,0,0,Emergency,Returning,Adult,Female,11,35,1,Ear,4,None,Insurance,Bangalore
+A002,P002,D010,General,2026-04-01,10:00,Wednesday,Afternoon,2026-03-30,2,Walk-in,No Show,NA,1,0,Emergency,New,Senior,Female,11,0,2,Allergy,1,Private,Cash,Bangalore
+A003,P003,D003,Derma,2026-04-01,11:00,Wednesday,Morning,2026-04-01,0,Call,Completed,NA,0,0,Emergency,Returning,Senior,Male,11,18,3,Ear,1,Private,Cash,Bangalore
+A004,P004,D011,Derma,2026-04-01,12:00,Wednesday,Afternoon,2026-03-30,2,Walk-in,Completed,NA,0,0,Emergency,Returning,Senior,Female,11,28,4,Fever,5,Govt,Insurance,Bangalore
+A005,P005,D003,General,2026-04-01,13:00,Wednesday,Morning,2026-03-29,3,Walk-in,Completed,NA,0,0,Emergency,Returning,Adult,Male,11,10,5,Allergy,2,Private,Insurance,Bangalore
+A006,P006,D004,ENT,2026-04-01,14:00,Wednesday,Afternoon,2026-03-31,1,Call,Cancelled,Personal,0,1,Routine,Returning,Senior,Female,11,0,6,Stomach,4,Private,Card,Bangalore
+A007,P007,D006,ENT,2026-04-01,15:00,Wednesday,Morning,2026-03-29,3,Walk-in,No Show,NA,1,0,Emergency,Returning,Senior,Male,11,0,7,Throat,1,Govt,Cash,Bangalore
+A008,P008,D007,ENT,2026-04-01,16:00,Wednesday,Afternoon,2026-03-31,1,Walk-in,Cancelled,Personal,0,1,Emergency,Returning,Adult,Male,11,0,8,Allergy,2,Govt,Card,Bangalore
+A009,P009,D002,Derma,2026-04-01,9:00,Wednesday,Morning,2026-04-01,0,Walk-in,No Show,NA,1,0,Routine,Returning,Adult,Female,11,0,9,Skin,3,None,Card,Bangalore
+A010,P010,D006,ENT,2026-04-01,10:00,Wednesday,Afternoon,2026-03-31,1,App,Completed,NA,0,0,Emergency,Returning,Adult,Male,11,11,10,Headache,3,Govt,Card,Bangalore
+A011,P011,D011,Derma,2026-04-02,11:00,Thursday,Morning,2026-04-02,0,App,Cancelled,Personal,0,1,Emergency,Returning,Senior,Male,11,0,11,Allergy,4,Private,Insurance,Bangalore
+A012,P012,D011,General,2026-04-02,12:00,Thursday,Afternoon,2026-04-02,0,App,Completed,NA,0,0,Emergency,New,Senior,Male,11,5,12,Fever,3,None,Insurance,Bangalore
+A013,P013,D007,General,2026-04-02,13:00,Thursday,Morning,2026-04-02,0,Walk-in,No Show,NA,1,0,Emergency,Returning,Senior,Male,11,0,13,Stomach,4,Private,Insurance,Bangalore
+A014,P014,D004,Derma,2026-04-02,14:00,Thursday,Afternoon,2026-04-02,0,App,Completed,NA,0,0,Emergency,Returning,Senior,Female,11,11,14,Skin,4,Private,Cash,Bangalore
+A015,P015,D008,ENT,2026-04-02,15:00,Thursday,Morning,2026-03-30,3,Walk-in,Completed,NA,0,0,Emergency,Returning,Senior,Female,11,30,15,Stomach,1,None,Insurance,Bangalore
+A016,P016,D006,ENT,2026-04-02,16:00,Thursday,Afternoon,2026-03-30,3,Walk-in,Cancelled,Personal,0,1,Emergency,Returning,Adult,Female,11,0,16,Ear,1,None,Card,Bangalore
+A017,P017,D008,Derma,2026-04-02,9:00,Thursday,Morning,2026-04-01,1,Walk-in,Completed,NA,0,0,Routine,Returning,Senior,Male,11,31,17,Hair,5,Private,Insurance,Bangalore
+A018,P018,D005,Derma,2026-04-02,10:00,Thursday,Afternoon,2026-03-31,2,Call,Completed,NA,0,0,Emergency,New,Senior,Male,11,10,18,Allergy,2,None,Card,Bangalore
+A019,P019,D008,General,2026-04-02,11:00,Thursday,Morning,2026-03-30,3,Walk-in,Cancelled,Personal,0,1,Routine,Returning,Adult,Female,11,0,19,Throat,4,None,Card,Bangalore
+A020,P020,D010,ENT,2026-04-02,12:00,Thursday,Afternoon,2026-04-02,0,Call,Completed,NA,0,0,Routine,Returning,Senior,Male,11,14,20,Acne,1,Govt,Card,Bangalore
+A021,P021,D003,General,2026-04-03,13:00,Friday,Morning,2026-03-31,3,Call,No Show,NA,1,0,Emergency,Returning,Senior,Female,11,0,21,Fever,4,Govt,Insurance,Bangalore
+A022,P022,D002,General,2026-04-03,14:00,Friday,Afternoon,2026-04-01,2,Call,Cancelled,Personal,0,1,Routine,New,Adult,Female,11,0,22,Headache,5,None,Cash,Bangalore
+A023,P023,D001,General,2026-04-03,15:00,Friday,Morning,2026-04-03,0,Call,Completed,NA,0,0,Emergency,Returning,Adult,Female,11,38,23,Nose,5,None,Insurance,Bangalore
+A024,P024,D007,General,2026-04-03,16:00,Friday,Afternoon,2026-04-03,0,Call,No Show,NA,1,0,Emergency,Returning,Adult,Male,11,0,24,Hair,5,Govt,Cash,Bangalore
+A025,P025,D007,Derma,2026-04-03,9:00,Friday,Morning,2026-04-02,1,App,Cancelled,Personal,0,1,Routine,Returning,Senior,Male,11,0,25,Allergy,3,Govt,Card,Bangalore
+A026,P026,D009,General,2026-04-03,10:00,Friday,Afternoon,2026-04-01,2,Call,No Show,NA,1,0,Emergency,New,Adult,Female,11,0,26,Fever,4,None,Cash,Bangalore
+A027,P027,D007,Derma,2026-04-03,11:00,Friday,Morning,2026-04-02,1,App,Cancelled,Personal,0,1,Emergency,New,Adult,Male,11,0,27,Headache,3,Private,Card,Bangalore
+A028,P028,D006,Derma,2026-04-03,12:00,Friday,Afternoon,2026-04-02,1,Call,No Show,NA,1,0,Emergency,New,Adult,Female,11,0,28,Nose,3,Private,Cash,Bangalore
+A029,P029,D006,Derma,2026-04-03,13:00,Friday,Morning,2026-04-03,0,Call,Completed,NA,0,0,Routine,New,Adult,Male,11,7,29,Allergy,3,None,Insurance,Bangalore
+A030,P030,D011,ENT,2026-04-03,14:00,Friday,Afternoon,2026-03-31,3,Walk-in,Completed,NA,0,0,Routine,Returning,Senior,Female,11,26,30,Skin,2,Private,Cash,Bangalore
+A031,P031,D001,General,2026-04-04,15:00,Saturday,Morning,2026-04-01,3,Walk-in,Cancelled,Personal,0,1,Emergency,New,Adult,Female,11,0,31,Fever,5,Private,Card,Bangalore
+A032,P032,D011,ENT,2026-04-04,16:00,Saturday,Afternoon,2026-04-01,3,Call,No Show,NA,1,0,Emergency,Returning,Senior,Male,11,0,32,Ear,4,Private,Cash,Bangalore
+A033,P033,D004,Derma,2026-04-04,9:00,Saturday,Morning,2026-04-02,2,App,No Show,NA,1,0,Routine,Returning,Adult,Male,11,0,33,Acne,1,Govt,Insurance,Bangalore
+A034,P034,D006,Derma,2026-04-04,10:00,Saturday,Afternoon,2026-04-01,3,App,Completed,NA,0,0,Routine,Returning,Adult,Female,11,27,34,Allergy,1,None,Card,Bangalore
+A035,P035,D005,Derma,2026-04-04,11:00,Saturday,Morning,2026-04-02,2,Walk-in,Cancelled,Personal,0,1,Emergency,New,Adult,Male,11,0,35,Skin,5,Private,Card,Bangalore
+A036,P036,D006,ENT,2026-04-04,12:00,Saturday,Afternoon,2026-04-01,3,Walk-in,Completed,NA,0,0,Emergency,Returning,Senior,Female,11,39,36,Skin,3,None,Cash,Bangalore
+A037,P037,D006,Derma,2026-04-04,13:00,Saturday,Morning,2026-04-04,0,Walk-in,No Show,NA,1,0,Emergency,Returning,Senior,Male,11,0,37,Nose,4,None,Card,Bangalore
+A038,P038,D003,General,2026-04-04,14:00,Saturday,Afternoon,2026-04-02,2,App,Completed,NA,0,0,Routine,Returning,Adult,Female,11,14,38,Skin,3,Govt,Insurance,Bangalore
+A039,P039,D011,Derma,2026-04-04,15:00,Saturday,Morning,2026-04-03,1,Call,Cancelled,Personal,0,1,Emergency,Returning,Senior,Female,11,0,39,Allergy,3,None,Insurance,Bangalore
+A040,P040,D004,ENT,2026-04-04,16:00,Saturday,Afternoon,2026-04-03,1,App,Completed,NA,0,0,Routine,New,Adult,Female,11,5,40,Fever,2,None,Card,Bangalore
+A041,P041,D008,ENT,2026-04-05,9:00,Sunday,Morning,2026-04-03,2,Call,No Show,NA,1,0,Routine,New,Adult,Male,11,0,41,Headache,1,Govt,Insurance,Bangalore
+A042,P042,D011,Derma,2026-04-05,10:00,Sunday,Afternoon,2026-04-03,2,Call,No Show,NA,1,0,Routine,Returning,Senior,Male,11,0,42,Headache,3,None,Insurance,Bangalore
+A043,P043,D005,General,2026-04-05,11:00,Sunday,Morning,2026-04-02,3,Walk-in,No Show,NA,1,0,Emergency,Returning,Adult,Male,11,0,43,Nose,1,Govt,Insurance,Bangalore
+A044,P044,D005,ENT,2026-04-05,12:00,Sunday,Afternoon,2026-04-04,1,App,Completed,NA,0,0,Routine,New,Senior,Female,11,17,44,Nose,5,None,Cash,Bangalore
+A045,P045,D001,ENT,2026-04-05,13:00,Sunday,Morning,2026-04-03,2,Call,Completed,NA,0,0,Routine,Returning,Senior,Male,11,31,45,Skin,2,Govt,Cash,Bangalore
+A046,P046,D009,General,2026-04-05,14:00,Sunday,Afternoon,2026-04-05,0,App,Cancelled,Personal,0,1,Emergency,New,Adult,Male,11,0,46,Hair,3,Private,Card,Bangalore
+A047,P047,D001,ENT,2026-04-05,15:00,Sunday,Morning,2026-04-02,3,Call,Completed,NA,0,0,Emergency,New,Senior,Female,11,18,47,Acne,5,Private,Insurance,Bangalore
+A048,P048,D004,Derma,2026-04-05,16:00,Sunday,Afternoon,2026-04-02,3,Call,No Show,NA,1,0,Emergency,Returning,Adult,Female,11,0,48,Skin,2,Private,Insurance,Bangalore
+A049,P049,D006,Derma,2026-04-05,9:00,Sunday,Morning,2026-04-03,2,Call,Completed,NA,0,0,Emergency,Returning,Senior,Male,11,19,49,Allergy,5,None,Insurance,Bangalore
+A050,P050,D004,Derma,2026-04-05,10:00,Sunday,Afternoon,2026-04-04,1,Walk-in,Completed,NA,0,0,Routine,New,Senior,Female,11,28,50,Stomach,2,None,Insurance,Bangalore
