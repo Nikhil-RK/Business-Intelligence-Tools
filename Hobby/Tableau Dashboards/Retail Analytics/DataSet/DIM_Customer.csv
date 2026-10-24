@@ -1,0 +1,301 @@
+﻿Customer_ID,Customer_Segment,Acquisition_Channel,Loyalty_Tier
+C0001,Consumer,Marketplace,Silver
+C0002,Consumer,Organic,Bronze
+C0003,Consumer,Paid Ads,Bronze
+C0004,Consumer,Marketplace,Silver
+C0005,Consumer,Referral,Silver
+C0006,Consumer,Marketplace,Bronze
+C0007,Consumer,Referral,Silver
+C0008,Consumer,Organic,Bronze
+C0009,Corporate,Referral,Gold
+C0010,Consumer,Paid Ads,Gold
+C0011,Small Business,Referral,Silver
+C0012,Small Business,Paid Ads,Silver
+C0013,Small Business,Marketplace,Bronze
+C0014,Corporate,Organic,Silver
+C0015,Consumer,Paid Ads,Bronze
+C0016,Corporate,Marketplace,Silver
+C0017,Consumer,Referral,Gold
+C0018,Consumer,Marketplace,Bronze
+C0019,Consumer,Organic,Silver
+C0020,Small Business,Referral,Bronze
+C0021,Consumer,Marketplace,Bronze
+C0022,Consumer,Organic,Silver
+C0023,Consumer,Referral,Gold
+C0024,Consumer,Marketplace,Bronze
+C0025,Consumer,Organic,Bronze
+C0026,Consumer,Referral,Silver
+C0027,Consumer,Organic,Silver
+C0028,Consumer,Paid Ads,Bronze
+C0029,Corporate,Paid Ads,Gold
+C0030,Small Business,Paid Ads,Bronze
+C0031,Corporate,Marketplace,Silver
+C0032,Consumer,Paid Ads,Bronze
+C0033,Small Business,Paid Ads,Silver
+C0034,Small Business,Marketplace,Bronze
+C0035,Consumer,Organic,Bronze
+C0036,Consumer,Marketplace,Bronze
+C0037,Consumer,Marketplace,Bronze
+C0038,Consumer,Marketplace,Bronze
+C0039,Consumer,Marketplace,Bronze
+C0040,Consumer,Organic,Bronze
+C0041,Corporate,Organic,Silver
+C0042,Consumer,Referral,Silver
+C0043,Consumer,Referral,Gold
+C0044,Small Business,Marketplace,Bronze
+C0045,Corporate,Organic,Bronze
+C0046,Consumer,Organic,Bronze
+C0047,Consumer,Referral,Bronze
+C0048,Corporate,Referral,Bronze
+C0049,Consumer,Referral,Silver
+C0050,Consumer,Referral,Bronze
+C0051,Consumer,Organic,Bronze
+C0052,Consumer,Marketplace,Silver
+C0053,Corporate,Marketplace,Bronze
+C0054,Consumer,Organic,Silver
+C0055,Corporate,Organic,Silver
+C0056,Consumer,Organic,Silver
+C0057,Consumer,Referral,Gold
+C0058,Small Business,Paid Ads,Gold
+C0059,Small Business,Paid Ads,Bronze
+C0060,Consumer,Referral,Silver
+C0061,Consumer,Organic,Silver
+C0062,Consumer,Marketplace,Silver
+C0063,Small Business,Paid Ads,Bronze
+C0064,Small Business,Paid Ads,Silver
+C0065,Corporate,Organic,Bronze
+C0066,Consumer,Referral,Bronze
+C0067,Consumer,Referral,Silver
+C0068,Corporate,Paid Ads,Silver
+C0069,Consumer,Referral,Bronze
+C0070,Consumer,Paid Ads,Silver
+C0071,Consumer,Marketplace,Gold
+C0072,Corporate,Paid Ads,Bronze
+C0073,Consumer,Marketplace,Bronze
+C0074,Corporate,Marketplace,Bronze
+C0075,Consumer,Paid Ads,Gold
+C0076,Small Business,Organic,Bronze
+C0077,Consumer,Referral,Bronze
+C0078,Consumer,Referral,Bronze
+C0079,Consumer,Referral,Gold
+C0080,Consumer,Referral,Silver
+C0081,Corporate,Organic,Silver
+C0082,Consumer,Referral,Gold
+C0083,Small Business,Paid Ads,Silver
+C0084,Small Business,Marketplace,Gold
+C0085,Small Business,Referral,Silver
+C0086,Small Business,Referral,Silver
+C0087,Corporate,Organic,Bronze
+C0088,Consumer,Referral,Bronze
+C0089,Consumer,Paid Ads,Bronze
+C0090,Consumer,Marketplace,Bronze
+C0091,Corporate,Referral,Silver
+C0092,Consumer,Marketplace,Bronze
+C0093,Consumer,Referral,Bronze
+C0094,Small Business,Marketplace,Gold
+C0095,Small Business,Organic,Bronze
+C0096,Corporate,Paid Ads,Gold
+C0097,Consumer,Paid Ads,Bronze
+C0098,Corporate,Referral,Bronze
+C0099,Consumer,Referral,Bronze
+C0100,Consumer,Referral,Gold
+C0101,Consumer,Marketplace,Silver
+C0102,Consumer,Referral,Bronze
+C0103,Corporate,Marketplace,Gold
+C0104,Corporate,Referral,Bronze
+C0105,Small Business,Organic,Bronze
+C0106,Consumer,Paid Ads,Silver
+C0107,Small Business,Referral,Silver
+C0108,Small Business,Marketplace,Bronze
+C0109,Consumer,Paid Ads,Bronze
+C0110,Consumer,Paid Ads,Silver
+C0111,Consumer,Marketplace,Bronze
+C0112,Consumer,Referral,Bronze
+C0113,Small Business,Paid Ads,Silver
+C0114,Corporate,Marketplace,Bronze
+C0115,Consumer,Referral,Silver
+C0116,Consumer,Organic,Bronze
+C0117,Corporate,Paid Ads,Silver
+C0118,Consumer,Paid Ads,Bronze
+C0119,Consumer,Organic,Bronze
+C0120,Corporate,Marketplace,Bronze
+C0121,Consumer,Marketplace,Silver
+C0122,Consumer,Paid Ads,Gold
+C0123,Consumer,Organic,Silver
+C0124,Small Business,Organic,Bronze
+C0125,Small Business,Marketplace,Bronze
+C0126,Corporate,Paid Ads,Silver
+C0127,Consumer,Paid Ads,Silver
+C0128,Consumer,Organic,Gold
+C0129,Consumer,Referral,Bronze
+C0130,Consumer,Organic,Silver
+C0131,Consumer,Marketplace,Bronze
+C0132,Small Business,Marketplace,Bronze
+C0133,Small Business,Marketplace,Silver
+C0134,Small Business,Referral,Bronze
+C0135,Small Business,Organic,Silver
+C0136,Consumer,Referral,Silver
+C0137,Consumer,Referral,Bronze
+C0138,Consumer,Marketplace,Silver
+C0139,Small Business,Referral,Silver
+C0140,Consumer,Organic,Silver
+C0141,Small Business,Paid Ads,Silver
+C0142,Small Business,Organic,Bronze
+C0143,Corporate,Organic,Gold
+C0144,Small Business,Referral,Silver
+C0145,Consumer,Paid Ads,Silver
+C0146,Consumer,Organic,Bronze
+C0147,Small Business,Marketplace,Bronze
+C0148,Consumer,Marketplace,Bronze
+C0149,Small Business,Marketplace,Bronze
+C0150,Corporate,Paid Ads,Bronze
+C0151,Corporate,Organic,Bronze
+C0152,Consumer,Paid Ads,Bronze
+C0153,Consumer,Referral,Gold
+C0154,Consumer,Referral,Bronze
+C0155,Consumer,Referral,Silver
+C0156,Consumer,Paid Ads,Gold
+C0157,Corporate,Organic,Silver
+C0158,Consumer,Organic,Bronze
+C0159,Consumer,Marketplace,Bronze
+C0160,Consumer,Referral,Silver
+C0161,Consumer,Referral,Gold
+C0162,Small Business,Paid Ads,Silver
+C0163,Consumer,Referral,Gold
+C0164,Corporate,Paid Ads,Gold
+C0165,Corporate,Marketplace,Bronze
+C0166,Consumer,Referral,Silver
+C0167,Consumer,Organic,Bronze
+C0168,Consumer,Organic,Silver
+C0169,Consumer,Organic,Bronze
+C0170,Consumer,Marketplace,Bronze
+C0171,Corporate,Organic,Bronze
+C0172,Corporate,Organic,Bronze
+C0173,Consumer,Organic,Bronze
+C0174,Small Business,Organic,Bronze
+C0175,Small Business,Organic,Bronze
+C0176,Consumer,Marketplace,Silver
+C0177,Corporate,Marketplace,Silver
+C0178,Consumer,Referral,Bronze
+C0179,Small Business,Organic,Bronze
+C0180,Consumer,Referral,Bronze
+C0181,Consumer,Referral,Bronze
+C0182,Small Business,Organic,Silver
+C0183,Consumer,Marketplace,Gold
+C0184,Consumer,Paid Ads,Gold
+C0185,Consumer,Paid Ads,Bronze
+C0186,Consumer,Organic,Bronze
+C0187,Consumer,Referral,Bronze
+C0188,Corporate,Referral,Bronze
+C0189,Corporate,Paid Ads,Bronze
+C0190,Consumer,Marketplace,Gold
+C0191,Consumer,Referral,Silver
+C0192,Consumer,Referral,Bronze
+C0193,Consumer,Organic,Silver
+C0194,Corporate,Referral,Silver
+C0195,Consumer,Organic,Bronze
+C0196,Consumer,Organic,Silver
+C0197,Consumer,Marketplace,Bronze
+C0198,Small Business,Paid Ads,Bronze
+C0199,Consumer,Referral,Bronze
+C0200,Consumer,Referral,Silver
+C0201,Consumer,Organic,Bronze
+C0202,Consumer,Paid Ads,Gold
+C0203,Consumer,Paid Ads,Bronze
+C0204,Consumer,Marketplace,Bronze
+C0205,Consumer,Marketplace,Gold
+C0206,Consumer,Paid Ads,Bronze
+C0207,Consumer,Referral,Silver
+C0208,Corporate,Referral,Silver
+C0209,Small Business,Paid Ads,Silver
+C0210,Small Business,Organic,Bronze
+C0211,Consumer,Organic,Silver
+C0212,Small Business,Referral,Bronze
+C0213,Corporate,Paid Ads,Bronze
+C0214,Corporate,Marketplace,Bronze
+C0215,Consumer,Organic,Gold
+C0216,Consumer,Referral,Silver
+C0217,Consumer,Organic,Bronze
+C0218,Small Business,Referral,Silver
+C0219,Consumer,Marketplace,Bronze
+C0220,Consumer,Referral,Bronze
+C0221,Consumer,Paid Ads,Silver
+C0222,Consumer,Referral,Gold
+C0223,Consumer,Referral,Silver
+C0224,Consumer,Marketplace,Bronze
+C0225,Consumer,Referral,Bronze
+C0226,Consumer,Referral,Bronze
+C0227,Consumer,Organic,Gold
+C0228,Consumer,Organic,Silver
+C0229,Consumer,Organic,Bronze
+C0230,Small Business,Referral,Silver
+C0231,Consumer,Referral,Bronze
+C0232,Consumer,Paid Ads,Silver
+C0233,Consumer,Marketplace,Silver
+C0234,Consumer,Paid Ads,Bronze
+C0235,Consumer,Marketplace,Silver
+C0236,Consumer,Paid Ads,Silver
+C0237,Consumer,Organic,Bronze
+C0238,Corporate,Paid Ads,Silver
+C0239,Consumer,Marketplace,Bronze
+C0240,Consumer,Paid Ads,Bronze
+C0241,Consumer,Referral,Bronze
+C0242,Consumer,Marketplace,Bronze
+C0243,Corporate,Paid Ads,Silver
+C0244,Consumer,Organic,Bronze
+C0245,Corporate,Referral,Bronze
+C0246,Consumer,Paid Ads,Gold
+C0247,Small Business,Organic,Gold
+C0248,Consumer,Paid Ads,Gold
+C0249,Consumer,Marketplace,Silver
+C0250,Consumer,Paid Ads,Silver
+C0251,Consumer,Paid Ads,Bronze
+C0252,Small Business,Organic,Gold
+C0253,Consumer,Marketplace,Bronze
+C0254,Consumer,Organic,Bronze
+C0255,Corporate,Paid Ads,Bronze
+C0256,Corporate,Paid Ads,Bronze
+C0257,Consumer,Paid Ads,Silver
+C0258,Consumer,Paid Ads,Bronze
+C0259,Small Business,Referral,Bronze
+C0260,Consumer,Organic,Gold
+C0261,Small Business,Paid Ads,Bronze
+C0262,Consumer,Referral,Bronze
+C0263,Consumer,Paid Ads,Bronze
+C0264,Consumer,Paid Ads,Bronze
+C0265,Consumer,Paid Ads,Bronze
+C0266,Consumer,Organic,Silver
+C0267,Consumer,Paid Ads,Gold
+C0268,Consumer,Organic,Silver
+C0269,Small Business,Paid Ads,Gold
+C0270,Consumer,Paid Ads,Bronze
+C0271,Consumer,Organic,Silver
+C0272,Consumer,Organic,Silver
+C0273,Small Business,Paid Ads,Bronze
+C0274,Consumer,Referral,Silver
+C0275,Consumer,Paid Ads,Silver
+C0276,Consumer,Referral,Gold
+C0277,Consumer,Paid Ads,Bronze
+C0278,Consumer,Paid Ads,Silver
+C0279,Consumer,Organic,Gold
+C0280,Consumer,Marketplace,Bronze
+C0281,Consumer,Organic,Silver
+C0282,Small Business,Organic,Bronze
+C0283,Small Business,Marketplace,Silver
+C0284,Corporate,Organic,Silver
+C0285,Consumer,Paid Ads,Bronze
+C0286,Corporate,Referral,Silver
+C0287,Consumer,Marketplace,Silver
+C0288,Consumer,Referral,Bronze
+C0289,Consumer,Referral,Bronze
+C0290,Small Business,Marketplace,Bronze
+C0291,Consumer,Paid Ads,Silver
+C0292,Consumer,Marketplace,Gold
+C0293,Consumer,Referral,Bronze
+C0294,Small Business,Referral,Gold
+C0295,Consumer,Paid Ads,Bronze
+C0296,Consumer,Organic,Bronze
+C0297,Consumer,Marketplace,Silver
+C0298,Consumer,Paid Ads,Bronze
+C0299,Consumer,Organic,Gold
+C0300,Small Business,Paid Ads,Silver

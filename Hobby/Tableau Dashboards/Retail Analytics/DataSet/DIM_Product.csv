@@ -1,0 +1,11 @@
+﻿Product_ID,Product_Name,Category,Subcategory,List_Price_INR,Unit_Cost_INR
+P001,Audio Essentials 1,Electronics,Audio,2200,1584.0
+P002,Accessories Essentials 2,Electronics,Accessories,1250,825.0
+P003,Apparel Essentials 3,Fashion,Apparel,1100,638.0
+P004,Footwear Essentials 4,Fashion,Footwear,1850,1128.5
+P005,Decor Essentials 5,Home,Decor,1550,976.5
+P006,Kitchen Essentials 6,Home,Kitchen,2050,1394.0
+P007,Skincare Essentials 7,Beauty,Skincare,850,433.5
+P008,Grooming Essentials 8,Beauty,Grooming,1150,655.5
+P009,Fitness Essentials 9,Sports,Fitness,2450,1690.5
+P010,Outdoor Essentials 10,Sports,Outdoor,1750,1137.5
